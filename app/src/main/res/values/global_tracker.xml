@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="ga_appName">My App</string>
+    <string name="ga_appVersion">1.1</string>
+    <integer name="ga_dispatchPeriod">1800</integer>
+    <bool name="ga_dryrun">false</bool>
+</resources>
